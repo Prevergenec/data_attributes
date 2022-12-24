@@ -2,3 +2,12 @@
     margin: 300px auto 0;
     text-align: center;
 }
+.btn[data-click = '1'] {
+    background: green;
+}
+.btn[data-click = '2'] {
+    background: yellow;
+}
+.btn[data-click = '3'] {
+    background: red;
+}
